@@ -1,0 +1,14 @@
+C:\Users\micha\Documents\C#\Vehicles\bin\Debug\net9.0\Vehicles.exe
+C:\Users\micha\Documents\C#\Vehicles\bin\Debug\net9.0\Vehicles.deps.json
+C:\Users\micha\Documents\C#\Vehicles\bin\Debug\net9.0\Vehicles.runtimeconfig.json
+C:\Users\micha\Documents\C#\Vehicles\bin\Debug\net9.0\Vehicles.dll
+C:\Users\micha\Documents\C#\Vehicles\bin\Debug\net9.0\Vehicles.pdb
+C:\Users\micha\Documents\C#\Vehicles\obj\Debug\net9.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Documents\C#\Vehicles\obj\Debug\net9.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\C#\Vehicles\obj\Debug\net9.0\Vehicles.AssemblyInfo.cs
+C:\Users\micha\Documents\C#\Vehicles\obj\Debug\net9.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\C#\Vehicles\obj\Debug\net9.0\Vehicles.dll
+C:\Users\micha\Documents\C#\Vehicles\obj\Debug\net9.0\refint\Vehicles.dll
+C:\Users\micha\Documents\C#\Vehicles\obj\Debug\net9.0\Vehicles.pdb
+C:\Users\micha\Documents\C#\Vehicles\obj\Debug\net9.0\Vehicles.genruntimeconfig.cache
+C:\Users\micha\Documents\C#\Vehicles\obj\Debug\net9.0\ref\Vehicles.dll
